@@ -1,2 +1,3 @@
 # vitech
-cái tài liệu về công nghệ bằng tiếng Việt
+
+tuyển chọn các tài liệu về công nghệ bằng tiếng Việt
