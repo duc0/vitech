@@ -24,6 +24,7 @@ Kinh nghiệm phỏng vấn
 -----------------------
 
 -   [Những kinh nghiệm chung khi phỏng vấn](interview/kinh-nghiem-chung-khi-phong-van.md)
+-   [Quy trình phỏng vấn Facebook](interview/quy-trinh-facebook.md)
 -   [Kinh nghiệm phỏng vấn Google](interview/kinh-nghiem-phong-van-google.md)
 -   [Kinh nghiệm phỏng vấn - Góc nhìn từ người phỏng vấn](interview/kinh-nghiem-phong-van-vien.md)
 
