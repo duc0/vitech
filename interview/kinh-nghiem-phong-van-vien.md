@@ -1,12 +1,9 @@
 Kinh nghiệm phỏng vấn - Góc nhìn từ người phỏng vấn
 ===================================================
 
--   [Search](http://vnoi.info/wiki/interview/experience-from-interviewer# "Search this wiki")
-
--   [Home](http://vnoi.info/wiki/)
--   [All](http://vnoi.info/wiki/pages)
-
 **Tác giả**: Nguyễn *RR* Thành Trung
+
+**Nguồn**: [Thư viện VNOI](http://vnoi.info/wiki/Home)
 
 [](http://vnoi.info/wiki/interview/experience-from-interviewer#m%E1%BB%9F-%C4%91%E1%BA%A7u)Mở đầu
 =================================================================================================
