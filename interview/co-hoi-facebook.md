@@ -13,6 +13,10 @@ Một trong những vấn đề thú vị mà team AI của FB nghiên cứu là
 
 ![Facebook-AI](fb-ai-logo.png)
 
+Video giới thiệu về nghiên cứu trí tuệ nhân tạo tại facebook
+
+[![FBAI](https://img.youtube.com/vi/-CRJLam3BNc/0.jpg)](https://www.youtube.com/watch?v=-CRJLam3BNc)
+
 Làm việc tại Facebook
 ======================================================================================================================================
 
