@@ -1,4 +1,8 @@
+Kinh nghiệm phỏng vấn Google
+===============================
+
 **Người viết**: RR
+
 **Nguồn**: [Thư viện VNOI](http://vnoi.info/wiki/Home)
 
 Trong bài viết này mình muốn chia sẻ kinh nghiệm phỏng vấn Google của mình. Mình tên là RR, hiện đang làm Software Engineer ở Google. Trong thời gian làm ở Google, mình đã refer (giới thiệu) hơn 20 bạn vào Google (kể cả đỗ và trượt), nhờ đó nắm được tương đối rõ quy trình tuyển dụng của Google. Trước khi vào Google, mình làm ở Garena Singapore và cũng có cơ hội được phỏng vấn khá nhiều bạn. Đứng ở cả 2 phía của quá trình phỏng vấn đã giúp cho mình có cái nhìn rõ ràng hơn về quy trình tuyển dụng của các công ty.
