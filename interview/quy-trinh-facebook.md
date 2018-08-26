@@ -27,9 +27,9 @@ Về các bạn Việt Nam làm tại FB, tác giả đã có cơ hội thực t
 
 Phỏng vấn với Facebook
 ======================================================================================================================================
-Về kinh nghiệm thực tế phỏng vấn, các bạn có thể tham khảo bài viết [Kinh nghiệm phỏng vấn Google](kinh-nghiem-phong-van-google.md) của tác giả RR (hiện là SW engineer tại Google), vì quy trình phỏng vấn của FB và Google cũng khá tương đồng với nhau .
+Về kinh nghiệm thực tế phỏng vấn, các bạn có thể tham khảo bài viết [Kinh nghiệm phỏng vấn Google](kinh-nghiem-phong-van-google.md) của tác giả RR (hiện là SW engineer tại Google), vì quy trình phỏng vấn của FB và Google cũng khá tương đồng với nhau . Bạn cũng tham khảo thêm [Những kinh nghiệm khi phỏng vấn](kinh-nghiem-chung-khi-phong-van.md) của tác giả Phong Dinh (hiện cũng là engineer tại Facebook) để biết thêm kinh nghiệm phỏng vấn chung cho ngành kỹ sư phần mềm .
 
-Xin tóm tắt sơ lược quy trình phỏng vấn cho SW engineer sau khi bạn được lựa chọn để phỏng vấn 
+Ở đây mình chỉ xin tóm tắt sơ lược quy trình phỏng vấn cho SW engineer tại Facebook (sau khi bạn được lựa chọn để phỏng vấn ):
 
 * nói chuyện điện thoại với nguời tuyển dụng (recruiter), có thể sẽ trả lời 1 số câu hỏi về kinh nghiệm làm việc của bạn / 1 số câu hỏi trắc nghiệm về lập trình / thuật toán
 * 1-2 vòng phỏng vấn qua điện thoại / bạn có thể cần kết nối internet với 1 số công cụ coding trực tuyến để người phỏng vấn tương tác với bạn khi bạn giải quyết bài toán .
