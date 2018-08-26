@@ -27,9 +27,9 @@ Kinh nghiệm phỏng vấn
 -   [Cơ hội làm việc tại Facebook](interview/co-hoi-facebook.md)
 -   [Kinh nghiệm phỏng vấn Google](interview/kinh-nghiem-phong-van-google.md)
 -   [Kinh nghiệm phỏng vấn - Góc nhìn từ người phỏng vấn](interview/kinh-nghiem-phong-van-vien.md)
--   [Cơ bản về PyTorch](ai/pytorch-101.md)
 
 AI Trí tuệ nhân tạo
 -----------------------
 -   [Machine Learning 101 (1): Làm quen](ai/ml-101-lam-quen.md)
 -   [Những vấn đề cơ bản về mạng neuron](ai/neural-network-101.md)
+-   [Cơ bản về PyTorch](ai/pytorch-101.md)
