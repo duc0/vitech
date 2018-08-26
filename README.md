@@ -30,3 +30,4 @@ Kinh nghiệm phỏng vấn
 AI Trí tuệ nhân tạo
 -----------------------
 -   [Machine Learning 101 (1): Làm quen](ai/ml-101-lam-quen.md)
+-   [Những vấn đề cơ bản về mạng neuron](ai/neural-network-101.md)
