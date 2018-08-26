@@ -9,6 +9,8 @@ Cùng với google, microsoft, amazon, ... Facebook là 1 công ty công nghệ 
 
 Với những phát triển nhanh chóng về AI / deep learning  trong những năm gần đây, FB cũng là 1 trong những công ty đi đầu trong lĩnh vực trí tuệ nhân tạo . Cùng với TensorFlow của Google, [Pytorch/Caffe2](https://github.com/pytorch/pytorch) là nền tảng deep learning của FB được giới chuyên môn đánh giá cao.  
 
+Một trong những vấn đề thú vị mà team AI của FB nghiên cứu là xây dựng [trí tuệ nhân tạo cho trò chơi Starcraft](https://research.fb.com/publications/stardata-a-starcraft-ai-research-dataset/). 
+
 Làm việc tại Facebook
 ======================================================================================================================================
 
