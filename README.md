@@ -4,6 +4,8 @@ tuyển chọn các tài liệu về công nghệ bằng tiếng Việt
 
 https://www.facebook.com/vitech4.0/
 
+![vitech](vitech.jpg)
+
 Giới thiệu
 -----------------------
 vi-tech tập hợp các tài liệu về công nghệ bằng tiếng việt trong nhiều lĩnh vực - thuật toán, AI, phỏng vấn/tìm việc,...
