@@ -31,7 +31,7 @@ Các tài liệu tương tác được soạn dưới dạng Jupyter Notebook gi
 Để mở tài liệu các bạn cài Jupyter (http://jupyter.org/install), clone repo vitech về máy tính, và chạy "jupyter notebook"
 
 Hướng dẫn Deep Learning với Pytorch
--   [Bài 1 - cơ bản về Tensor](jupyter/pytorch-tutorials/ch1-tensor.ipynb)
+-   [Bài 1 - cơ bản về Tensor](jupyter/pytorch-tutorials/ch1_tensor.ipynb)
 
 
 Kinh nghiệm phỏng vấn
