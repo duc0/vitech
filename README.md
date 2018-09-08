@@ -24,6 +24,16 @@ Vui lòng dẫn nguồn và tác giả bài viết khi đăng.
 
 Một số các bài viết ở đây được trích từ [thư viện VNOI](http://vnoi.info/wiki/Home).
 
+Các tài liệu tương tác (Jupyter Notebook)
+-----------------------
+Các tài liệu tương tác được soạn dưới dạng Jupyter Notebook giúp bạn vừa theo dõi tài liệu vừa tương tác được với code (Python).
+
+Để mở tài liệu các bạn cài Jupyter (http://jupyter.org/install), clone repo vitech về máy tính, và chạy "jupyter notebook"
+
+Hướng dẫn Deep Learning với Pytorch
+-   [Bài 1 - cơ bản về Tensor](jupyter/pytorch-tutorials/ch1-tensor.ipynb)
+
+
 Kinh nghiệm phỏng vấn
 -----------------------
 
