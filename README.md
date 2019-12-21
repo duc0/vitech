@@ -46,3 +46,6 @@ AI Trí tuệ nhân tạo
 Trò chơi giải trí với AI hay
 -----------------------
 -   [Cờ Carô với AI hay](http://play.google.com/store/apps/details?id=com.popoko.gomokuvn)
+-   [Cờ Vua với AI hay](http://play.google.com/store/apps/details?id=com.popoko.chessru)
+-   [Cờ Gomoku với AI hay](http://play.google.com/store/apps/details?id=com.popoko.gomokukr)
+-   [Trò chơi Dò Mìn](http://play.google.com/store/apps/details?id=com.popoko.minesweeper)
