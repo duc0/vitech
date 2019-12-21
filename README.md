@@ -42,3 +42,7 @@ AI Trí tuệ nhân tạo
 -   [Machine Learning 101 (1): Làm quen](ai/ml-101-lam-quen.md)
 -   [Những vấn đề cơ bản về mạng neuron](ai/neural-network-101.md)
 -   [Cơ bản về PyTorch](ai/pytorch-101.md)
+
+Trò chơi giải trí với AI hay
+-----------------------
+-   [Cờ Carô với AI hay](http://play.google.com/store/apps/details?id=com.popoko.gomokuvn)
