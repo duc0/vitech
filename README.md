@@ -43,7 +43,7 @@ AI Trí tuệ nhân tạo
 -   [Những vấn đề cơ bản về mạng neuron](ai/neural-network-101.md)
 -   [Cơ bản về PyTorch](ai/pytorch-101.md)
 
-Trò chơi giải trí với AI hay
+[Trò chơi giải trí với AI hay](https://play.google.com/store/apps/dev?id=8454869713871668206)
 -----------------------
 -   [Cờ Carô với AI hay](http://play.google.com/store/apps/details?id=com.popoko.gomokuvn)
 -   [Cờ Vua với AI hay](http://play.google.com/store/apps/details?id=com.popoko.chessru)
